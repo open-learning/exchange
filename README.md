@@ -1,3 +1,3 @@
-# `git4ol` Exchange
+# Open-Learning `exchange`
 
-`git4ol-exchange` provide p2p trading services.
+`exchange` provides p2p trading services of digital assets from [open-learning `credits`](//github.com/open-learning/credits).
